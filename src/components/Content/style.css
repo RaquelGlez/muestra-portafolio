@@ -1,0 +1,24 @@
+/* .navbar {
+    background-color: #D5DDE6 !important;
+} */
+
+.Menu {
+    margin: 150px auto;
+    align-content: center;
+    
+}
+
+
+.nav-link {
+    color:white !important;
+    background-color: #80deea;
+}
+
+.nav-link active {
+    background-color: azure !important;
+}
+
+
+.Nombre{
+    
+}
