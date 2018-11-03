@@ -1,24 +1,82 @@
-/* .navbar {
-    background-color: #D5DDE6 !important;
+
+
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Dosis', sans-serif;
+
+font-family: 'Dosis', sans-serif;
+font-family: 'Raleway', sans-serif;
+*/
+/*Comun*/
+.content-title {
+    font-family: 'Dosis', sans-serif;
+}
+
+h3 {
+    font-size: 2.5em;
+}
+
+/* Inician estilos de seccion aboutme*/
+.about {
+    background-color:#575E79;
+    color: #DBD9E3;
+    border-radius: 20px 5px 0px 0px;
+    -moz-border-radius: 20px 5px 0px 0px;
+    -webkit-border-radius: 20px 5px 0px 0px;
+
+}
+
+.image-aboutme{
+    font-family: 'Dosis', sans-serif;    
+}
+
+h2 {
+    font-size: 3em;
+}
+
+/* p {
+    margin-bottom: auto !important;
 } */
 
-.Menu {
-    margin: 150px auto;
-    align-content: center;
-    
+.content-aboutme {
+    font-family: 'Open Sans', sans-serif; 
+    text-align: right; 
+    font-size: 18px; 
+}
+/*Terminan estilos de seccion aboutme*/
+
+/*Inician estilos de sección work*/
+.work {
+    background-color:#6F758C;
+    color: #DBD9E3;
 }
 
 
-.nav-link {
-    color:white !important;
-    background-color: #80deea;
+
+/*Terminan estilos de sección work*/
+
+/*Inician estilos de sección skills*/
+.skills {
+    background-color:#878C9F;
+    color: #DBD9E3;
 }
 
-.nav-link active {
-    background-color: azure !important;
+/*Terminan estilos de sección skills*/
+
+/*Inician estilos de sección contact*/
+.contact {
+    background-color:#9FA3B2;
+    color: #DBD9E3;
+    border-radius: 1px 0px 5px 20px;
+    -moz-border-radius: 1px 0px 5px 20px;
+    -webkit-border-radius: 1px 0px 5px 20px;
 }
 
 
-.Nombre{
-    
+.content-contact {
+    font-family: 'Open Sans', sans-serif; 
 }
+
+/*Terminan estilos de sección contact*/
+
+
+

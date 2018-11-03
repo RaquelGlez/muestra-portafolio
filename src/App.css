@@ -5,9 +5,12 @@
 
 .Contenido {
   
-  /* background-image: url(../src/components/Images/macro.jpg);
+  background-image: url(../src/components/Images/macro.jpg);
   background-position: center;
-  opacity: 1.0; */
+  opacity: 1.0;
+  width: 100%;
+  background-size:100%;
+  background-repeat: repeat;
 }
 
 
