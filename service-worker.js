@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/raquelglez.github.io/precache-manifest.d6d0116ce5df78253ea07b4c6a42ffbf.js"
+  "/raquelglez.github.io/precache-manifest.ac7769bc3360359299b320ce2d9a672c.js"
 );
 
 workbox.clientsClaim();
